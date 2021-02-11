@@ -9,43 +9,43 @@
     <string name="menu_nav_notification">Oznámení</string>
     <string name="menu_nav_call">Hovor</string>
     <string name="menu_nav_step">Aktivita</string>
-    <string name="menu_nav_sleep">Spánek</string>
-    <string name="menu_nav_pulse">Tep</string>
+    <string name="menu_nav_sleep">Spánok</string>
+    <string name="menu_nav_pulse">Ťep</string>
     <string name="menu_nav_alarm">Budík</string>
     <string name="menu_nav_dnd">Režim nerušit (DnD)</string>
-    <string name="menu_nav_watch_face">Styl ciferníku</string>
-    <string name="menu_nav_weather">Počasí</string>
-    <string name="menu_nav_touch">Dotek</string>
-    <string name="menu_nav_more">Více</string>
+    <string name="menu_nav_watch_face">Štýl ciferníku</string>
+    <string name="menu_nav_weather">Počasie</string>
+    <string name="menu_nav_touch">Dotyk</string>
+    <string name="menu_nav_more">Viac</string>
     <string name="menu_nav_text_display">Textové ikony</string>
     <string name="menu_nav_export">Export</string>
     <string name="menu_nav_premium_mode">Prémiový režim</string>
-    <string name="menu_nav_feedback">Zpětná vazba</string>
-    <string name="menu_nav_privacy_policy">Zásady ochrany soukromí</string>
-    <string name="menu_nav_theme">Styly</string>
+    <string name="menu_nav_feedback">Zpätná väzzba</string>
+    <string name="menu_nav_privacy_policy">Zásady ochrany súkromia</string>
+    <string name="menu_nav_theme">Štyly</string>
 <!--    <string name="menu_nav_settings" type="string">@string/settings_name</string>-->
 
-    <string name="setting_name">Nastavení</string>
-    <string name="settings_name">Nastavení</string>
-    <string name="info_name">Informace</string>
+    <string name="setting_name">Nastavenia</string>
+    <string name="settings_name">Nastavenia</string>
+    <string name="info_name">Informacie</string>
 
 <!--    <string name="mi_band_tracker_title">Kroky・vzdálenost・kalorie・cíl・tep</string>-->
-    <string name="mi_band_tracker_title">Kroky・cíl・tep</string>
-<!--    <string name="mi_band_battery">Úroveň baterie・čas nabíjení・odhadovaný zbývající čas</string>-->
-    <string name="device_battery">Úroveň baterie・čas nabíjení</string>
-    <string name="device_state_connected_disconnected_last_time">Poslední čas připojení a odpojení</string>
+    <string name="mi_band_tracker_title">Kroky・ciel・tep</string>
+<!--    <string name="mi_band_battery">Úroveň baterie・čas nabíjania・odhadovaný zbývajúcí čas</string>-->
+    <string name="device_battery">Úroveň baterie・čas nabíjania</string>
+    <string name="device_state_connected_disconnected_last_time">Poslední čas připojenia a odpojenia</string>
     <string name="device_alarm">Další alarm</string>
 
     <string name="device_search">&device_name; search</string>
-    <string name="device_setting">Nastavení &device_name;</string>
+    <string name="device_setting">Nastavenia &device_name;</string>
 
     <string name="device_mac_address">MAC adresa</string>
     <string name="device_mac_address_invalid">MAC adresa je neplatná</string>
 
-    <string name="device_state_connected">Připojeno</string>
-    <string name="device_state_disconnected">Odpojeno</string>
-    <string name="device_state_bonded">Spárované zařízení</string>
-    <string name="device_state_not_bonded">Není spárováno zařízení</string>
+    <string name="device_state_connected">Pripojené</string>
+    <string name="device_state_disconnected">Odpojené</string>
+    <string name="device_state_bonded">Spárované zariadenie</string>
+    <string name="device_state_not_bonded">Není spárováné zariadenie</string>
 
     <string name="pref_dnd_title">Režim nerušit (DnD)</string>
 
@@ -53,22 +53,22 @@
     <string name="mi_band_setting_button_title">Nastavení %1$s・Profil・Text・Hovor・Menu</string>
     <string name="mi_band_setting_title">Nastavení %1$s</string>
 
-    <string name="mi_band_setting_menu_connection">Připojení</string>
+    <string name="mi_band_setting_menu_connection">Pripojené</string>
     <string name="mi_band_setting_menu_setting">@string/setting_name</string>
     <string name="mi_band_setting_menu_profile">Profil</string>
     <string name="mi_band_setting_menu_text">Text</string>
     <string name="mi_band_setting_menu_call">Hovor</string>
     <string name="mi_band_setting_menu_menu">Menu</string>
 
-    <string name="mi_band_setting_auth_mi_fit">Spolupráce s %1$s</string> <!-- Haylou Fit-->
-    <string name="mi_band_setting_auth_mi_fit_hint">&app_name; vyžaduje instalaci oficiální aplikace %1$s na stejném zařízení. Nejprve musíte spárovat %2$s v aplikaci %1$s, poté můžete použít aplikaci &app_name; Zvolte tuto možnost, pokud chcete použít %1$s.</string>
+    <string name="mi_band_setting_auth_mi_fit">Spolupráca s %1$s</string> <!-- Haylou Fit-->
+    <string name="mi_band_setting_auth_mi_fit_hint">&app_name; vyžaduje inštalaciu oficiálnej aplikacie %1$s na rovnakom zariadení. Najprv musíte spárovat %2$s v aplikacii %1$s, potom možte použít aplikaciu &app_name; Zvolte tuto možnost, pokial chcete použít %1$s.</string>
     <string name="mi_band_setting_auth_standalone">Samostatný</string>
-    <string name="mi_band_setting_auth_standalone_hint">Aplikace %1$s není nutná pro práci &app_name;. Po párování odinstalujte aplikaci %1$s nebo odpojte zařízení. When restoring the %1$s cooperation, you will need to re-pair your %2$s in the %1$s application. If you use the unpair function, the data on the smartwatch will be deleted. The %2$s screen must be turned on while performing operations.</string>
+    <string name="mi_band_setting_auth_standalone_hint">Aplikacia %1$s není nutná pre práci &app_name;. Po párování odinštalujte aplikaciu %1$s alebo odpojte zariadenie. When restoring the %1$s cooperation, you will need to re-pair your %2$s in the %1$s application. If you use the unpair function, the data on the smartwatch will be deleted. The %2$s screen must be turned on while performing operations.</string>
 
     <string name="mi_band_setting_auth_key">Authentication key</string>
     <string name="mi_band_setting_auth_key_help">Enter any 4 numbers</string>
     <string name="mi_band_setting_auth_request">Key request</string>
-    <string name="mi_band_setting_auth_pair">Spárovat</string>
+    <string name="mi_band_setting_auth_pair">Spárovať</string>
     <string name="mi_band_setting_auth_unpair">Unpair</string>
 
     <string name="message_auth_request">It is paired, if you do not know the key, use the unpair</string>
@@ -83,18 +83,18 @@
     <string name="mi_band_setting_dial">Styl ciferníku</string>
     <string name="mi_band_setting_language">Jazyk</string>
     <string name="mi_band_setting_time_24h">24hodinový formát času</string>
-    <string name="mi_band_setting_distance_unit">Nastavit jednotky vzdálenosti</string>
-    <string name="mi_band_setting_lift_wrist">Zvednutí zápěstí pro zobrazení informací</string>
+    <string name="mi_band_setting_distance_unit">Nastavit jednotky vzdialenosti</string>
+    <string name="mi_band_setting_lift_wrist">Zdvihnutie zápastia pre zobrazenie informacií</string>
     <string name="mi_band_setting_screen_on_duration">Screen on duration</string>
-    <string name="mi_band_setting_idle_alert">Oznámení o nečinnosti</string>
+    <string name="mi_band_setting_idle_alert">Oznámenie o nečinnosti</string>
     <string name="mi_band_setting_idle_alert_time">Čas nečinnosti</string>
     <string name="mi_band_setting_idle_alert_dnd">Do not disturb, while you have rest (12:00-14:00)</string>
 
     <string name="mi_band_setting_profile">This data is needed to correctly calculate the number of steps, distance, and burned calories</string>
-    <string name="mi_band_setting_gender">Pohlaví</string>
+    <string name="mi_band_setting_gender">Pohlavie</string>
     <string name="mi_band_setting_gender_male">Muž</string>
     <string name="mi_band_setting_gender_female">Žena</string>
-    <string name="mi_band_setting_birthday">Datum narození</string>
+    <string name="mi_band_setting_birthday">Datúm narodenia</string>
     <string name="mi_band_setting_height">Výška</string>
     <string name="mi_band_setting_weight">Váha</string>
 
@@ -103,90 +103,91 @@
     <string name="battery_details">Detaily baterie</string>
 
     <string name="mi_band_battery_settings">Nastavení baterie</string>
-    <string name="mi_band_battery_notification">Oznámení nízké úrovně baterie</string>
-    <string name="mi_band_battery_notification_level">Nastavení hodnoty nízké úrovně baterie</string>
-    <string name="mi_band_battery_notification_repeat_interval">Interval opakování</string>
-    <string name="mi_band_battery_notification_shade">Upozornění na zařízení</string>
-    <string name="mi_band_battery_notification_shade_ongoing">Trvalé (probihající) upozornění</string>
-    <string name="mi_band_battery_notification_shade_message">Úroveň baterie je nižší než %1$,d%%</string>
-    <string name="mi_band_battery_notification_mi_band">Upozornění na náramku</string>
-    <string name="mi_band_battery_notification_mi_band_message">Baterie: %1$,d%%</string>
+    <string name="mi_band_battery_notification">Oznámeie nízké úrovne baterie</string>
+    <string name="mi_band_battery_notification_level">Nastavenie hodnoty nízké úrovne
+  baterie</string>
+    <string name="mi_band_battery_notification_repeat_interval">Interval opakovania</string>
+    <string name="mi_band_battery_notification_shade">Upozornenie na zariadení</string>
+    <string name="mi_band_battery_notification_shade_ongoing">Trvalé (prebiehajúce) upozornnie</string>
+    <string name="mi_band_battery_notification_shade_message">Úroveň baterie je nižšia ako %1$,d%%</string>
+    <string name="mi_band_battery_notification_mi_band">Upozorneňie na náramku</string>
+    <string name="mi_band_battery_notification_mi_band_message">Batéria: %1$,d%%</string>
 
     <!-- PreferenceScreen -->
-    <string name="pref_connected_have_notif_interval_title">Interval opakování připomenutí</string>
+    <string name="pref_connected_have_notif_interval_title">Interval opakovania pripomenutí</string>
     <string name="pref_connected_have_notif_interval_summary">Notification/reminder signal function uses this timing</string>
 
-    <string name="pref_synchronization">Synchronization</string>
+    <string name="pref_synchronization">Synchronizacia</string>
     <string name="pref_synchronization_fetch">Aktivita・Tep</string>
     <string name="pref_synchronization_fetch_interval">Synchronization frequency</string>
 
-    <string name="pref_battery_phone">Baterie zařízení</string>
-    <string name="pref_battery_phone_summary">Oznámení nabité a vybité baterie</string>
+    <string name="pref_battery_phone">Bateria zariadenia</string>
+    <string name="pref_battery_phone_summary">Oznámenie nabitia a vybitia baterie</string>
     <string name="pref_cat_battery_phone_low">Nízká úroveň baterie</string>
-    <string name="pref_battery_phone_low_title">Oznámení při nízké úrovni baterie</string>
+    <string name="pref_battery_phone_low_title">Oznámenie pri nízkéj úrovni baterie</string>
     <string name="pref_battery_phone_low_level_title">Úroveň nabité baterie</string>
-    <string name="pref_battery_phone_low_repeat_interval_title">Interval opakování oznámení</string>
+    <string name="pref_battery_phone_low_repeat_interval_title">Interval opakovánie oznámenia</string>
     <string name="pref_cat_battery_phone_full">Nabitá baterie</string>
-    <string name="pref_battery_phone_full_title">Oznámení plně nabité baterie</string>
-    <string name="pref_battery_phone_full_plugged_ac">Nabíječka</string>
+    <string name="pref_battery_phone_full_title">Oznámení plne nabitéj baterie</string>
+    <string name="pref_battery_phone_full_plugged_ac">Nabíjačka</string>
     <string name="pref_battery_phone_full_plugged_usb">USB port</string>
-    <string name="pref_battery_phone_full_plugged_wireless">Bezdrátový zdroj napětí</string>
+    <string name="pref_battery_phone_full_plugged_wireless">Bezdrótový zdroj napätia</string>
 
-    <string name="pref_battery_phone_message">Baterie zařízení:\n %1$,d%%</string>
+    <string name="pref_battery_phone_message">Bateria zariadenia:\n %1$,d%%</string>
 
     <string name="pref_language">Jazyk</string>
     <string name="pref_cat_language">Aplikace</string>
     <string name="pref_language_title">Jazyk</string>
 
     <!-- Snackbar Messages -->
-    <string name="message_enable_bluetooth">Prosím aktivujte Bluetooth a dejte náramek blíž k telefonu</string>
-    <string name="message_discover_mi_band">Náramek není nastaven, prosím vyhledejte ho</string>
-    <string name="message_discovering_mi_band">Hledání náramku (může trvat pár minut) &#8230;</string>
-    <string name="message_discovered_mi_band">%1$s připojen</string>
-    <string name="message_discovered_no_mi_band">Připojení náramku selhalo</string>
-    <string name="message_discovered_not_found_mi_band">Pokud nebyl náramek nalezen, zapněte: Haylou Sport/Play/Objevte nebo spárujte náramek s Bluetooth Vašeho zařízení</string>
-    <string name="message_enable_notification_listener_access">Povolte přístup k oznámení: Nastavení/oznámení/přístup k oznámení</string>
-    <string name="message_enable_notification_listener_access_4_4">Povolte přístup k oznámení: Nastavení/zabezpečení/přístup k oznámení</string>
-    <string name="message_open_settings">Nastavení</string>
+    <string name="message_enable_bluetooth">Prosím aktivujte Bluetooth a dajte náramok blížšie k telefonu</string>
+    <string name="message_discover_mi_band">Náramok nieje nastavení, prosím vyhladajte ho</string>
+    <string name="message_discovering_mi_band">Hledání náramku (môže to trvať pár minut) &#8230;</string>
+    <string name="message_discovered_mi_band">%1$s pripojené</string>
+    <string name="message_discovered_no_mi_band">Pripojenie náramku zlyhalo</string>
+    <string name="message_discovered_not_found_mi_band">Pokiaľ nebol náramok nájdení, zapniťe: Haylou Sport/Play/Nájdiťe alebo spárujte náramok s Bluetooth Vášho zariadenia</string>
+    <string name="message_enable_notification_listener_access">Povolte přístup k oznámenie: Nastavenie/oznámenia/prístup k oznámeniam</string>
+    <string name="message_enable_notification_listener_access_4_4">Povolte přístup k oznámení: Nastavenie/zabezpečeníía/prístup k oznámeniam</string>
+    <string name="message_open_settings">Nastavenia</string>
 
-    <string name="message_deleted">Vymazat</string>
-    <string name="message_undo">Vrátit</string>
+    <string name="message_deleted">Vymazať</string>
+    <string name="message_undo">Vrátiť</string>
 
-    <string name="message_app_chooser_no_selected">Vyberte aplikaci</string>
+    <string name="message_app_chooser_no_selected">Vyberťe aplikaciu</string>
 
     <string name="message_free_counter">Up to 1 setting can be used in free mode</string>
 
-    <string name="message_notification_free_groups">V normálním režimu lze použít až %1$,d skupin</string>
+    <string name="message_notification_free_groups">V normálnom režime sa dá použíť až %1$,d skupin</string>
     <string name="message_notification_free_app">Up to 1 application can be selected in free mode</string>
     <string name="message_notification_free_apps">Up to %1$,d applications can be selected in free mode</string>   <!-- %1$s = 2 or more  -->
 
     <string name="message_notification_free_text">Up to 1 text can be recorded in free mode</string>
 
-    <string name="message_time_alarm_free_counter">V normálním režimu lze použít až 1 budíky</string>
-    <string name="message_time_alarm_max_counter">Maximálně může být použito %1$d budíků</string>
-    <string name="message_time_alarm_enabled">Budík povolen</string>
-    <string name="message_time_alarm_disabled">Budík zakázán</string>
-    <string name="message_time_alarm_mi_band_off">Budík vypnut</string>
+    <string name="message_time_alarm_free_counter">V normálnom režime sa dá použít až 1 budík</string>
+    <string name="message_time_alarm_max_counter">Maximálne môže býť použité %1$d budíkov</string>
+    <string name="message_time_alarm_enabled">Budík povolení</string>
+    <string name="message_time_alarm_disabled">Budík zakázáný</string>
+    <string name="message_time_alarm_mi_band_off">Budík vypnuty</string>
 
-    <string name="message_touch_pattern_error">Zadaný vzorec je podobný vzorci jiné funkce, zaznamenejte jinou</string>
-    <string name="message_touch_free_patterns">V normálním režimu lze použít až %1$,d funkce</string>
+    <string name="message_touch_pattern_error">Zadaný vzorec je podobný vzorcu inéj funkcie, zaznamenajte inu</string>
+    <string name="message_touch_free_patterns">V normálnomm režime sa dá použít až %1$,d funkcie</string>
     <string name="message_touch_record_help">Use the %1$s music control/find my phone features</string> <!-- %1$s = smartwatch -->
 
-    <string name="message_premium_mode_only">Tato funkce je k dispozici pouze v prémiovém režimu</string>
+    <string name="message_premium_mode_only">Táto funkcia je k dispozicií iba v prémiovom režime</string>
     <string name="message_feature_is_not_supported">%1$s does not support this feature</string>
-    <string name="message_general_error">Nastavení se nezdařilo (spojení bylo ztraceno), zkuste to znovu</string>
-    <string name="message_internet_error">Nemáte připojení k internetu</string>
+    <string name="message_general_error">Nastavenie sa nepodarilo (spojenie bolo stratené), zkúsťe to znova</string>
+    <string name="message_internet_error">Nemáťe připojenie k internetu</string>
     <string name="message_gps_enable">Enable the GPS</string>
     <string name="message_location_enable">Enable the location info permission</string>
 
-    <string name="message_in_progress">Probíhá…</string>
-    <string name="message_no_data">Žádné údaje nejsou k dispozici</string>
+    <string name="message_in_progress">Prebieha…</string>
+    <string name="message_no_data">Žiadné údaje niesu k dispozicií</string>
 
-    <string name="message_new_message">Přišla nová zpráva, zobrazte ji na telefonu.</string>
+    <string name="message_new_message">Prišla nová správa, zobrazíte si ju na telefone.</string>
 
     <!-- Dialog -->
     <string name="dialog_welcome_title">Vítejte!</string>
-    <string name="dialog_welcome_message"><![CDATA[Podporovaná zařízení:
+    <string name="dialog_welcome_message"><![CDATA[Podporované zariadenia:
     <br>• <b>Haylou Solar (LS05)</b>
     <br>• <b>Haylou Smart Watch 2 (LS02)</b>
     <br>• <b>Haylou Smart Watch (LS01)</b>
